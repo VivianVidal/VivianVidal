@@ -5,7 +5,7 @@
 <p align="center"> 👀 I’m migrating careers, looking to enter the market in the technology area</p>
 <p align="center">📙 I'm studying programming in Python (web and dados), relational databases, front-end development and technical administration</p>
 <p align="center"> 😄 I’m looking to expand my knowledge and pursue a career in the technology field</p>
-<p align="center">💞️ Passionate about web development 
+
  
 
 <h2 align="center"> 📞Contacts </h2>
